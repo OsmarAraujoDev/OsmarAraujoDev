@@ -3,7 +3,7 @@
 ## Programador Full Stack Jr 
 
 ### Habilidades
-- Backend: Node.js, Express, Java, Php
+- Backend: Node.js, Express, Java, Php, Python
 - Banco de dado: MySQL, SQLServer, PostgreSQL
 - Frontend: HTML, CSS, JavaScript, Bootstrap
 
