@@ -68,8 +68,8 @@
 
 <h2 align="center">📫 Entre em Contato</h2>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/osmararaujo)
-- 📧 **osmar.araujo.dev@gmail.com**
+- 📚 email de estudante: **osmar.s@estudante.ifmt.edu.br**
+- 📧 email profissional: **osmar.araujo.dev@gmail.com**
 
 ---
 
