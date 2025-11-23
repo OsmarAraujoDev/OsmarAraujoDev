@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou Osmar Araújo</h1>
 <p align="center">
-  <em>Desenvolvedor Full Stack Jr | Fundador da WebMarkers | Apaixonado por inovação e tecnologia</em>
+  <em>Desenvolvedor Full Stack | Fundador da WebMarkers </em>
 </p>
 
 ---
@@ -8,13 +8,12 @@
 <h2 align="center">✨ Sobre Mim</h2>
 
 - 🖥️ **Programo desde os 14 anos**! Comecei a estudar programação no curso técnico de informática integrado ao ensino médio no **IFMT**.
-- 🚀 **Primeira vaga na área aos 16 anos** como Dev Full Stack Jr na **Flamboyan**.
-- 🏆 Já fui **campeão em eventos de inovação e tecnologia municipais** como o **FECITI 2024** e participei de eventos como o **ERI-MT 2024**.
+- 🚀 **Primeira vaga na área aos 16 anos** como Dev Full Stack na **Flamboyan**.
+- 🏆 Já fui **campeão em eventos de inovação e tecnologia municipais e estaduais** como a **FECITI 2024**, **MECTI 2025**, **FEIRA DE CIÊNCIA, INOVAÇÃO E TECNOLOGIA IFMT**, e apresentei em eventos como o **ERI-MT (2024, 2025)** .
 - 🌱 Atualmente, trabalho com **Node.js**, **Express**, **SQL Server** e **Bootstrap** desenvolvendo principalmente no **Backend**.
 - 💡 **Fundador da WebMarkers**, uma startup focada no desenvolvimento de sites e soluções de automação.
-- 💧 Líder do **AquaPulse**, um sistema de irrigação automática com Arduino.
-- 🤖 Nas horas vagas, adoro criar **sistemas embarcados** utilizando **Arduino** e **C++**.
-- 🎯 Busco sempre escrever **clean code**, escalável e otimizado, utilizando IA para aumentar minha produtividade.
+- 💧 Gerente do **AquaPulse**, um projeto de sistema de irrigação automática com Arduino.
+- 🎯 Busco sempre escrever **clean code**, escalável e otimizado.
 
 ---
 
