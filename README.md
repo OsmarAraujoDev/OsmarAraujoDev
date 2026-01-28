@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou Osmar Araújo</h1>
 <p align="center">
-  <em>Desenvolvedor Full Stack | Fundador da WebMarkers </em>
+  <em>Desenvolvedor Backend</em>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 - 🖥️ **Programo desde os 14 anos**! Comecei a estudar programação no curso técnico de informática integrado ao ensino médio no **IFMT**.
 - 🚀 **Primeira vaga na área aos 16 anos** como Dev Full Stack na **Flamboyan**.
 - 🏆 Já fui **campeão em eventos de inovação e tecnologia municipais e estaduais** como a **FECITI 2024**, **MECTI 2025**, **FEIRA DE CIÊNCIA, INOVAÇÃO E TECNOLOGIA IFMT**, e apresentei em eventos como o **ERI-MT (2024, 2025)** .
-- 🌱 Atualmente, trabalho com **Node.js**, **Express**, **SQL Server** e **Bootstrap** desenvolvendo principalmente no **Backend**.
+- 🌱 Atualmente, trabalho com **Node.js**, **Express**, **Microsoft SQL Server**.
 - 💡 **Fundador da WebMarkers**, uma startup focada no desenvolvimento de sites e soluções de automação.
 - 💧 Gerente do **AquaPulse**, um projeto de sistema de irrigação automática com Arduino.
 - 🎯 Busco sempre escrever **clean code**, escalável e otimizado.
@@ -24,13 +24,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### Frontend:
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### Banco de Dados:
@@ -50,22 +43,6 @@
 
 ---
 
-<h2 align="center">📊 Estatísticas e Gráficos</h2>
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=OsmarAraujoDev&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OsmarAraujoDev&layout=compact&theme=radical)
-
-</div>
-
----
-
 <h2 align="center">📫 Entre em Contato</h2>
 
-- 📚 email de estudante: **osmar.s@estudante.ifmt.edu.br**
 - 📧 email profissional: **osmar.araujo.dev@gmail.com**
-
----
-
-<h4 align="center">"Inovação é o que separa um líder de um seguidor." – Steve Jobs</h4>
